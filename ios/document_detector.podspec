@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.swift_version = '5.3.2'
   
   s.dependency 'Flutter'
-  s.dependency 'DocumentDetectorNoSentry', '7.6.0'
+  s.dependency 'DocumentDetectorNoSentry', '7.8.0'
 end
